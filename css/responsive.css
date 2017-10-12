@@ -1,0 +1,141 @@
+@media screen and (min-width: 451px) and (max-width: 999px) {
+  body {
+    width: 100%;
+  }
+
+  .logo {
+    width: 40%;
+  }
+
+  h1 {
+    padding-right: 5px;
+  }
+
+  .sub-name {
+    padding-right: 5px;
+    margin-left: 0;
+  }
+
+  h2 {
+    padding-left: 5px;
+  }
+
+  h3 {
+    padding-left: 5px;
+  }
+
+  .education {
+    border-radius: 0;
+  }
+
+  ul {
+    padding-left: 5px;
+  }
+
+  .work-des {
+    padding-right: 5px;
+  }
+}
+
+@media screen and (max-width: 749px) {
+  .staples {
+    width: 100%;
+    text-align: center;
+  }
+
+  .img-staples {
+    width: 250px;
+  }
+
+  .description {
+    width: 100%;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  body{
+    width: 100%;
+  }
+
+  .logo {
+    width: 30%;
+  }
+
+  .my-pic {
+    width: 100%;
+    margin-left: 5px;
+  }
+
+  .name {
+    width: 70%;
+  }
+
+  h1 {
+    padding-right: 5px;
+    margin-top: 5px;
+  }
+
+  .sub-name {
+    padding-right: 5px;
+    margin-left: 0;
+  }
+
+  h2 {
+    padding-left: 10px;
+  }
+
+  .container {
+    width: 100%;
+    text-align: center;
+  }
+
+  .education {
+    border-radius: 0;
+  }
+
+  .slot {
+    width: 100%;
+    text-align: center;
+  }
+
+  h3 {
+    margin-bottom: 5px;
+  }
+
+  .staples {
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+  }
+
+  .img-staples {
+    width: 100%;
+  }
+
+  .description {
+    width: 100%;
+    text-align: center;
+  }
+  .work-des {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  .contact_intro {
+    display:flex;
+  }
+
+  hr {
+    width: 35%;
+    height: 2%;
+  }
+
+  .contact_title {
+    width: 30%;
+    margin-bottom: 15px;
+  }
+
+}

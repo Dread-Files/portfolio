@@ -1,0 +1,23 @@
+/* add your CSS here */
+.card {
+  width: 325px;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding-bottom: 10px;
+  padding-left: 17px;
+  box-shadow: 10px 10px 5px grey;
+}
+.image {
+  width: 305px;
+  height: 200px;
+}
+.description {
+  border: 1px solid gray;
+  width: 300px;
+  padding-left: 5px;
+}
+ul {
+  list-style: none;
+  padding-left: 0px;
+}

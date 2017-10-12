@@ -1,0 +1,146 @@
+body {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Titillium Web", sans-serif;
+}
+
+header {
+  display: flex;
+  flex-wrap: wrap;
+  box-shadow: 0 15px 30px #888;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.logo {
+  width: 40%;
+}
+
+.my-pic {
+  width: 150px;
+  margin-left: 15px;
+  border-radius: 100%;
+  box-shadow: 0 4px 30px 0px #888;
+}
+
+.name {
+  width: 58%;
+  text-align: right;
+}
+
+h1 {
+  margin-bottom: 5px;
+  color: #3498dB;
+}
+
+.sub-name {
+  margin-top: 5px;
+  display: block;
+}
+
+.line {
+  width: 100%;
+  display: flex;
+  border-bottom: solid;
+  border-bottom-color: gray;
+  margin-bottom: 10px
+}
+
+.cover,
+h2,
+.field {
+  width: 100%;
+  color: #3498dB;
+}
+
+.container {
+  width: 50%;
+  text-align: center;
+}
+
+.wolf {
+  border-radius: 50px;
+  margin: auto;
+  align: center;
+  width: 85%;
+  height: 70%;
+}
+
+.youtube {
+  border-radius: 200px;
+  margin: auto;
+  width: 55%;
+  height: auto;
+  align: center;
+}
+
+.slot {
+  width: 33.3%;
+}
+
+.education {
+  padding-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 20px;
+  box-shadow: 0 6px 30px 10px #888;
+}
+
+.edu-title {
+  margin-bottom: 0;
+}
+
+h3 {
+  text-shadow: 0 5px 10px #888;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-shadow: 0 5px 10px #888;
+}
+
+.staples {
+  width: 25%;
+  align-content: center;
+  margin-top: 35px;
+  margin-right: 5px;
+}
+
+.img-staples {
+  width: 100%;
+}
+
+.description {
+  width: 65%;
+  margin-left: 0;
+}
+
+.contact_intro {
+  display:flex;
+}
+
+.contact-style {
+  width: 40%;
+  height: 2px;
+  margin-top: 30px;
+}
+
+.contact_title {
+  width: 20%;
+  text-align: center;
+}
+
+.connect {
+  width: 104px;
+  margin: auto;
+}
+
+.connect-2 {
+  text-align: center;
+}
